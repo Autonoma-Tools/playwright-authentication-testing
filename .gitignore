@@ -66,3 +66,4 @@ playwright-report/
 
 # ---- Bootstrap checkpoint (added at finalize step) ----
 # .checkpoint is appended dynamically by the github-repo-bootstrap skill
+.checkpoint
